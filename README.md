@@ -21,18 +21,19 @@ A **responsive Contact Us form** built using **HTML and CSS**, designed to work 
 
 ## ▶️ How to Use
 1. Clone the repository:
-   bash
+   ```bash
    ``` git clone https://github.com/your-username/your-repo-name.git ```
+   ```
 
-2.Open the contactus.html file in any modern web browser.
-3.Customize the form fields, styles, or colors as needed.
+2. Open the contactus.html file in any modern web browser.
+3. Customize the form fields, styles, or colors as needed.
 
 ---
 
 ## 📁 Project Structure
 
 📦 Responsive-Contact-Form
- ┣ 📜 index.html
+ ┣ 📜 index.html  
  ┣ 📜 style.css
 
 ---
