@@ -33,8 +33,8 @@ A **responsive Contact Us form** built using **HTML and CSS**, designed to work 
 ## 📁 Project Structure
 
 📦 Responsive-Contact-Form  
- ┣ 📜 index.html  
- ┣ 📜 style.css
+ ┣ 📜 contactus.html  
+ ┣ 📜 contactus.css
 
 ---
 
