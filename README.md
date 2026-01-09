@@ -22,7 +22,7 @@ A **responsive Contact Us form** built using **HTML and CSS**, designed to work 
 ## ▶️ How to Use
 1. Clone the repository:
    ```bash
-    git clone https://github.com/your-username/your-repo-name.git 
+    https://github.com/Surya-exp23/Contact-us-form.git 
    ```
 
 2. Open the contactus.html file in any modern web browser.
